@@ -1,4 +1,4 @@
-# Taskr — Full-Stack To-Do App
+# Task — Full-Stack To-Do App
 
 A production-ready, full-stack to-do list application built with **React**, **Node.js/Express**, and **MongoDB**.
 
@@ -109,7 +109,3 @@ Set env vars: `MONGO_URI`, `JWT_SECRET`, `CLIENT_URL`, `NODE_ENV=production`
 
 ### Frontend (e.g. Vercel, Netlify)
 Set env var: `REACT_APP_API_URL=https://your-backend-url.com/api`
-
-## License
-
-MIT
