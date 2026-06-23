@@ -51,8 +51,8 @@ todo-app/
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/yourusername/taskr.git
-cd taskr
+git clone (https://github.com/Okith-13/to-do-app.git)
+cd to-do-app
 ```
 
 ### 2. Setup the backend
